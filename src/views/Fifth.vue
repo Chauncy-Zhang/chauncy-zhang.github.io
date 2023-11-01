@@ -21,6 +21,6 @@ function toggle() {
     /* margin-right: auto; */
     /* width: 500px; */
     color: aqua;border-style: solid;
-    width: auto;
+    width: 150px;
 }
 </style>

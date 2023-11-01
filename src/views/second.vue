@@ -10,8 +10,9 @@
     </div>
 </template>
 <style>
-    .div2{border-style: solid;    width: auto;
-
+    .div2{
+        border-style: solid;   
+        width: auto;
     }
     .title{
         color: red;
